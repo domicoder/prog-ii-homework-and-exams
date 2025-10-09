@@ -21,7 +21,9 @@ public class Homework1 {
             new NumeroPerfectoApp(),
             new NumerosAmigosApp(),
             new ArrayDuplicatedNumbersApp(),
-            new EjercicioPositivoFactorial() /** Ejercicio PRIMER PARCIAL - 1 OCT 2025 */
+            new EjercicioPositivoFactorial(), /** Ejercicio PRIMER PARCIAL - 1 OCT 2025 */
+            new ClassExercise(),
+            new ClassNationalityGenderExercise()
         );
         
         while (true) {
