@@ -99,7 +99,7 @@ public class Persona {
         System.out.println("Año de Nacimiento: " + this.anioNacimiento);
         System.out.println("País de nacimiento: " + this.paisNacimiento);
         System.out.println("Género: " + this.genero);
-        System.out.println("Edad: " + this.calcularEdadPersona());
+        System.out.println("Edad: " + this.calcularEdadPersona() + " años.");
     }
     
     private int calcularEdadPersona() {
